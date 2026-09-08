@@ -1,6 +1,6 @@
 site_name: SfCPL by NeverWitness
-site_url: https://neverwitness.github.io/self-from-coupled-predictive-loops/
-site_description: Self from Coupled Predictive Loops Hypothesis
+site_url: https://neverwitness.github.io/three-human-desires/
+site_description: Three Human Desires
 
 docs_dir: build_docs
 site_dir: site
@@ -33,18 +33,16 @@ plugins:
           nav_translations:
             首页: Home
 
-            理论: Theory
+            概述: Overview
 
-            理论框架: Theory Framework
             核心概念: Core Concepts
+            基础模型与三欲: Base Model and Three Desires
 
-            解释与科学背景: Explanation & Scientific Background
             解释能力: Explanatory Power
-            科学背景: Scientific Background
-
-            验证与边界: Predictions & Boundaries
-            可检验预测: Testable Predictions
             局限性: Limitations
+            相关理论: Related Theories
+
+            可能的检验和预测: Possible Experiments and Predictions
 
 markdown_extensions:
   - toc:
