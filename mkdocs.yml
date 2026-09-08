@@ -1,6 +1,6 @@
-site_name: THD by NeverWitness
+site_name: DMfTHD by NeverWitness
 site_url: https://neverwitness.github.io/three-human-desires/
-site_description: Three Human Desires
+site_description: Dynamics Model for Three Human Desires
 
 docs_dir: build_docs
 site_dir: site
