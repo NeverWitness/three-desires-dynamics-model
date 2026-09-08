@@ -83,7 +83,6 @@ jobs:
             echo ""
             cat build_docs/zh/index.md
           } > /tmp/en_index.md
-
           mv /tmp/en_index.md build_docs/en/index.md
 
       - name: Build site
