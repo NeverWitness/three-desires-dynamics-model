@@ -58,7 +58,7 @@ jobs:
           # 中文首页
           {
             echo "---"
-            echo "title: 耦合预测环自我生成假说"
+            echo "title: 三欲动力学模型"
             echo "description: "
             echo "---"
             echo ""
@@ -73,7 +73,7 @@ jobs:
           # 英文首页
           {
             echo "---"
-            echo "title: Self from Coupled Predictive Loops Hypothesis"
+            echo "title: Dynamics Model on Three Human Desires"
             echo "description:"
             echo "---"
             echo ""
