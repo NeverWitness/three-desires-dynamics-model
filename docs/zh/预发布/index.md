@@ -1,4 +1,4 @@
-# Three Human Desires｜三欲动力学模型
+# Dynamics Model for Three Human Desires｜三欲动力学模型
 
 **当前版本：5.4**
 
