@@ -37,6 +37,7 @@ plugins:
 
             核心概念: Core Concepts
             基础模型与三欲: Base Model and Three Desires
+            动力学变化与分析: Dynamics and Analysis
 
             解释能力: Explanatory Power
             局限性: Limitations
@@ -60,16 +61,17 @@ draft_docs: |
   en/_drafts/
 
 nav:
-  - 首页: indexE.md
+  - 首页: index.md
 
   - 理论:
-      - 理论框架: theory.md
       - 核心概念: core_concepts.md
+      - 基础模型与三欲: base_model.md
+      - 动力学变化与分析: dynamics_analysis.md
 
   - 解释与科学背景:
       - 解释能力: explanatory_power.md
-      - 科学背景: scientific_background.md
+      - 相关理论: related_theories.md
 
   - 验证与边界:
-      - 可检验预测: predictions.md
       - 局限性: limitations.md
+      - 可检验预测: possible_verification.md
