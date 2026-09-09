@@ -59,7 +59,7 @@ jobs:
           {
             echo "---"
             echo "title: 三欲动力学模型"
-            echo "description: "
+            echo "description: 该模型描述了欲望如何形成行为、相互作用以及随时间推移而变化的动态过程。它根据基本动态特征区分了身体欲望、掌控欲望和他利欲望。"
             echo "---"
             echo ""
             echo "> *Version: $VERSION · Build: $DATE*"
@@ -73,8 +73,8 @@ jobs:
           # 英文首页
           {
             echo "---"
-            echo "title: Dynamics Model on Three Human Desires"
-            echo "description:"
+            echo "title: Three Desires Dynamics Model"
+            echo "description: A dynamics model of how desires form, interact with behavior, and change over time. It distinguishes bodily, control, and altruistic desires by their basic dynamic characteristics."
             echo "---"
             echo ""
             echo "> *Version: $VERSION_EN_US · Build: $DATE*"
