@@ -319,7 +319,7 @@ $$
 
 $$
 (\Sigma_t,\text{实际变化})
-\xrightarrow{\text{主体获取}}
+\xrightarrow{主体获取}
 \text{实际感受结构}
 $$
 
@@ -472,7 +472,7 @@ $$
 $$
 \boxed{
 \text{具体欲望}
-\xrightarrow{\text{满足所依赖的结构}}
+\xrightarrow{满足所依赖的结构}
 \text{三欲分类}
 }
 $$
@@ -1150,7 +1150,7 @@ $$
 
 $$
 (\Sigma_t,\text{实际变化})
-\xrightarrow{\text{主体获取}}
+\xrightarrow{主体获取}
 \text{实际感受结构}
 $$
 
