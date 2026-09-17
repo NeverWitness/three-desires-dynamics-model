@@ -169,7 +169,7 @@ $$
 
 $$
 (\Sigma_t,\text{实际变化})
-\xrightarrow{\text{主体获取}}
+\xrightarrow{主体获取}
 \text{实际感受结构}
 $$
 
@@ -831,7 +831,7 @@ $$
 
 $$
 (\Sigma_t,\text{实际变化})
-\xrightarrow{\text{主体获取}}
+\xrightarrow{主体获取}
 \text{实际感受结构}
 $$
 
